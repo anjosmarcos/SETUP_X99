@@ -6,3 +6,14 @@ DGPU:           AMD REDEON 550 4GB
 SSD:            1TB KINGSTON SNV2S1000G, NVME
 Enternet:       REALTECK RLT8168/8111 GB (RTL8111)
 WIFI-BT:        FEVI ADAPTER, BCM4360 
+
+
+
+LINKS:
+- https://www.python.org/downloads/release/python-399/
+- https://github.com/corpnewt/ProperTree
+- https://github.com/corpnewt/GenSMBIOS
+- https://github.com/corpnewt/SSDTTime
+- https://www.intel.com/content/www/us/en/download/774881/acpi-component-architecture-downloads-windows-binary-tools.html
+- https://ark.intel.com/content/www/br/pt/ark/products/91767/intel-xeon-processor-e5-2650-v4-30m-cache-2-20-ghz.html
+- https://github.com/luchina-gabriel/BASE-EFI-INTEL-HEDT-5THGEN-X99-BROADWELL-E-PUBLIC
